@@ -219,7 +219,7 @@ The tray icon stays while the app runs. Right-click it to open the window, mute 
 
 ## 7. Voices
 
-The installer includes one voice, GL Standard. A second voice, JV Calm, downloads from inside the app: Settings > Voice. It is a download of about 27 MB, checked after download. You can switch voices at any time and remove ones you do not use (not the one in use).
+The installer includes one voice, Gianluca. A second voice, James, downloads from inside the app: Settings > Voice. It is a download of about 27 MB, checked after download. You can switch voices at any time and remove ones you do not use (not the one in use).
 
 The voices are cloned, with their consent, from the voices of real people. They are not the voices of real F1 engineers. Every line is pre-recorded, so there is no live speech generation while you drive.
 

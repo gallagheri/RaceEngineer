@@ -15,7 +15,7 @@ This repository holds the voice packs and the release notes; the installer is on
 | Release notes | [Release notes 1.0](https://github.com/gallagheri/RaceEngineer/releases/tag/v1.0.0) |
 | User guide | [User guide](USER_GUIDE.md) |
 
-The installer includes one voice (GL Standard). Other voices are installed from inside the app, in Settings > Voice; you do not need to download the voice pack files by hand.
+The installer includes one voice (Gianluca). The second voice (James) is installed from inside the app, in Settings > Voice; you do not need to download the voice pack files by hand.
 
 The installer is not code-signed. Windows SmartScreen shows "Windows protected your PC": click More info, then Run anyway. It installs for your Windows user only and needs no admin rights.
 

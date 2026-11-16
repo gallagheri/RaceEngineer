@@ -1,6 +1,6 @@
-# Race Engineer for F1 26
+# Gallagheri Race Engineer for F1 26
 
-A Windows app that listens to F1 25 (with the 2026 Season Pack) over UDP telemetry and gives you British-style race engineer radio calls in a pre-recorded cloned voice: race strategy and box calls, gaps and rivals, tyres, fuel and damage, flags and safety cars, corner coaching, and practice and qualifying programmes.
+Gallagheri Race Engineer for F1 26 is a Windows app that listens to F1 25 (with the 2026 Season Pack) over UDP telemetry and gives you British-style race engineer radio calls in a pre-recorded cloned voice: race strategy and box calls, gaps and rivals, tyres, fuel and damage, flags and safety cars, corner coaching, and practice and qualifying programmes.
 
 Every line is pre-recorded, so there is no live speech generation and the app is light on the GPU. The radio is one-way: the engineer talks, you drive.
 

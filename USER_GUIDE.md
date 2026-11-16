@@ -1,8 +1,8 @@
-# Race Engineer for F1 26: user guide
+# Gallagheri Race Engineer for F1 26: user guide
 
 Version 1.0
 
-Race Engineer is a Windows app that listens to F1 25 (with the 2026 Season Pack) and talks to you over the radio like a British race engineer: strategy, box calls, gaps, tyres, flags, corner coaching and practice and qualifying programmes. It reads the game's UDP telemetry and plays pre-recorded lines in a cloned voice, so it costs the game almost nothing on the GPU.
+Gallagheri Race Engineer for F1 26 is a Windows app that listens to F1 25 (with the 2026 Season Pack) and talks to you over the radio like a British race engineer: strategy, box calls, gaps, tyres, flags, corner coaching and practice and qualifying programmes. It reads the game's UDP telemetry and plays pre-recorded lines in a cloned voice, so it costs the game almost nothing on the GPU.
 
 Race Engineer is an independent fan project. It is not affiliated with or endorsed by Electronic Arts, Codemasters or Formula 1.
 
@@ -34,7 +34,7 @@ No admin rights are needed and .NET is included in the installer.
 1. Download `RaceEngineer-Setup-1.0.0.exe` from the Patreon post or the GitHub releases page.
 2. Run it. Windows SmartScreen will probably say "Windows protected your PC", because the installer is not code-signed. Click More info, then Run anyway.
 3. Follow the installer. It installs for your Windows user only and can add a desktop icon.
-4. Leave "Launch Race Engineer for F1 26" ticked at the end to start it.
+4. Leave "Launch Gallagheri Race Engineer for F1 26" ticked at the end to start it.
 
 To update later, run the new installer over the old one. Your settings, logs, recordings and voices are kept.
 
@@ -272,4 +272,4 @@ Check your connection and try again. A damaged download is rejected and the old 
 
 ## 10. Uninstall
 
-Open Windows Settings > Apps > Installed apps, find Race Engineer for F1 26 and choose Uninstall. The uninstaller asks whether to remove your data in `%AppData%\RaceEngineer` as well. Choose No to keep your settings, track maps, recordings and voices for a later install.
+Open Windows Settings > Apps > Installed apps, find Gallagheri Race Engineer for F1 26 and choose Uninstall. The uninstaller asks whether to remove your data in `%AppData%\RaceEngineer` as well. Choose No to keep your settings, track maps, recordings and voices for a later install.

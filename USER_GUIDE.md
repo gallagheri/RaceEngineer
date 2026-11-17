@@ -2,7 +2,7 @@
 
 Version 1.0
 
-Gallagheri Race Engineer for F1 26 is a Windows app that listens to F1 25 (with the 2026 Season Pack) and talks to you over the radio like a British race engineer: strategy, box calls, gaps, tyres, flags, corner coaching and practice and qualifying programmes. It reads the game's UDP telemetry and plays pre-recorded lines in a cloned voice, so it costs the game almost nothing on the GPU.
+Gallagheri Race Engineer for F1 26 is a Windows app that listens to F1 25 (with the 2026 Season Pack) and talks to you over the radio like a race engineer: strategy, box calls, gaps, tyres, flags, corner coaching and practice and qualifying programmes. It reads the game's UDP telemetry and plays pre-recorded lines in a cloned voice, so it costs the game almost nothing on the GPU.
 
 Race Engineer is an independent fan project. It is not affiliated with or endorsed by Electronic Arts, Codemasters or Formula 1.
 
@@ -222,13 +222,13 @@ The tray icon stays while the app runs. Right-click it to open the window, mute 
 
 The installer includes one voice, Gianluca. A second voice, James, downloads from inside the app: Settings > Voice. It is a download of about 27 MB, checked after download. You can switch voices at any time and remove ones you do not use (not the one in use).
 
-The voices are cloned, with their consent, from the voices of real people. They are not the voices of real F1 engineers. Every line is pre-recorded, so there is no live speech generation while you drive.
+Every line is pre-recorded, so there is no live speech generation while you drive.
 
 ## 8. Your data, updates and privacy
 
 Everything Race Engineer keeps is in `%AppData%\RaceEngineer`: settings, call logs, recordings, the learned track maps, practice results and the voices.
 
-At start the app checks GitHub for a newer version. If there is one it offers the download page; it never installs anything by itself. Voices are downloaded from the same GitHub releases.
+At start the app checks GitHub for a newer version. If there is one it shows two download links, Patreon and Ko-fi: open the one you got the app from. It never installs anything by itself. Voices are downloaded from the same GitHub releases.
 
 Race Engineer has no account and sends no telemetry, logs or personal data anywhere. The only connections it makes are the update check and voice downloads.
 

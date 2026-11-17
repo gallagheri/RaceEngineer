@@ -1,6 +1,6 @@
 # Gallagheri Race Engineer for F1 26
 
-Gallagheri Race Engineer for F1 26 is a Windows app that listens to F1 25 (with the 2026 Season Pack) over UDP telemetry and gives you British-style race engineer radio calls in a pre-recorded cloned voice: race strategy and box calls, gaps and rivals, tyres, fuel and damage, flags and safety cars, corner coaching, and practice and qualifying programmes.
+Gallagheri Race Engineer for F1 26 is a Windows app that listens to F1 25 (with the 2026 Season Pack) over UDP telemetry and gives you race engineer radio calls in a pre-recorded cloned voice: race strategy and box calls, gaps and rivals, tyres, fuel and damage, flags and safety cars, corner coaching, and practice and qualifying programmes.
 
 Every line is pre-recorded, so there is no live speech generation and the app is light on the GPU. The radio is one-way: the engineer talks, you drive.
 
@@ -10,7 +10,7 @@ This repository holds the voice packs and the release notes; the installer is on
 
 | Download | Link |
 |---|---|
-| Installer (Windows, version 1.0.0) | On Patreon: https://www.patreon.com/cw/gallagheri, or Ko-fi: https://ko-fi.com/gallagheri |
+| Installer (Windows, version 1.0.0) | On Patreon: https://www.patreon.com/gallagheri/posts/f1-26-f1tv-for-175615083, or Ko-fi: https://ko-fi.com/s/3444a1561d |
 | Voice packs | [voices release](https://github.com/gallagheri/RaceEngineer/releases/tag/voices) |
 | Release notes | [Release notes 1.0](https://github.com/gallagheri/RaceEngineer/releases/tag/v1.0.0) |
 | User guide | [User guide](USER_GUIDE.md) |
@@ -29,10 +29,6 @@ The installer is not code-signed. Windows SmartScreen shows "Windows protected y
 ## Support and news
 
 News, feedback and support are on Patreon: https://www.patreon.com/cw/gallagheri
-
-## Voices
-
-The voices are cloned with the consent of the people whose voices they are. They are not the voices of real F1 engineers.
 
 ## Licence
 

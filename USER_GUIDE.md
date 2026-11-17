@@ -17,7 +17,8 @@ Race Engineer is an independent fan project. It is not affiliated with or endors
 7. Voices
 8. Your data, updates and privacy
 9. Troubleshooting
-10. Uninstall
+10. Reporting a problem
+11. Uninstall
 
 ## 1. Requirements
 
@@ -270,6 +271,17 @@ A voice download failed
 
 Check your connection and try again. A damaged download is rejected and the old voice stays as it was.
 
-## 10. Uninstall
+## 10. Reporting a problem
+
+Send it on Patreon, as a message or a comment on the release post. Include:
+
+1. What happened and when: the track, the session, the lap, and what you expected. For example: "Monza race, lap 12, after the safety car: no box call".
+2. The call log of that session: `%AppData%\RaceEngineer\logs\calls_<date>_<time>.txt`. It is small and lists every call with its lap and why it fired.
+3. The version, from Settings > About.
+4. A recording, if you made one (Record on the Pit wall). It lets me replay the session exactly. Recordings are large (about 45 MB a minute, roughly 8 times smaller zipped), so zip it and share it through OneDrive, Google Drive or WeTransfer.
+
+Call logs and recordings hold the game's telemetry and the drivers' names, including your in-game name. Nothing else from your PC.
+
+## 11. Uninstall
 
 Open Windows Settings > Apps > Installed apps, find Gallagheri Race Engineer for F1 26 and choose Uninstall. The uninstaller asks whether to remove your data in `%AppData%\RaceEngineer` as well. Choose No to keep your settings, track maps, recordings and voices for a later install.

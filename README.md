@@ -4,13 +4,13 @@ Gallagheri Race Engineer for F1 26 is a Windows app that listens to F1 25 (with 
 
 Every line is pre-recorded, so there is no live speech generation and the app is light on the GPU. The radio is one-way: the engineer talks, you drive.
 
-This repository holds the voice packs and the release notes; the installer is on Patreon. The source code is private.
+This repository holds the voice packs and the release notes; the installer is on Patreon and Ko-fi. The source code is private.
 
 ## Downloads
 
 | Download | Link |
 |---|---|
-| Installer (Windows, version 1.0.0) | On Patreon, for patrons: https://www.patreon.com/cw/gallagheri |
+| Installer (Windows, version 1.0.0) | On Patreon: https://www.patreon.com/cw/gallagheri, or Ko-fi: https://ko-fi.com/gallagheri |
 | Voice packs | [voices release](https://github.com/gallagheri/RaceEngineer/releases/tag/voices) |
 | Release notes | [Release notes 1.0](https://github.com/gallagheri/RaceEngineer/releases/tag/v1.0.0) |
 | User guide | [User guide](USER_GUIDE.md) |

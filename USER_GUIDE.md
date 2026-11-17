@@ -32,7 +32,7 @@ No admin rights are needed and .NET is included in the installer.
 
 ## 2. Install
 
-1. Download `RaceEngineer-Setup-1.0.0.exe` from the Patreon post or the GitHub releases page.
+1. Download `RaceEngineer-Setup-1.0.0.exe` from the Patreon or Ko-fi post.
 2. Run it. Windows SmartScreen will probably say "Windows protected your PC", because the installer is not code-signed. Click More info, then Run anyway.
 3. Follow the installer. It installs for your Windows user only and can add a desktop icon.
 4. Leave "Launch Gallagheri Race Engineer for F1 26" ticked at the end to start it.
@@ -273,7 +273,7 @@ Check your connection and try again. A damaged download is rejected and the old 
 
 ## 10. Reporting a problem
 
-Send it on Patreon, as a message or a comment on the release post. Include:
+Send it on Patreon or Ko-fi, as a message or a comment on the release post. Include:
 
 1. What happened and when: the track, the session, the lap, and what you expected. For example: "Monza race, lap 12, after the safety car: no box call".
 2. The call log of that session: `%AppData%\RaceEngineer\logs\calls_<date>_<time>.txt`. It is small and lists every call with its lap and why it fired.

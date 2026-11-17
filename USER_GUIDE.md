@@ -32,7 +32,7 @@ No admin rights are needed and .NET is included in the installer.
 
 ## 2. Install
 
-1. Download `RaceEngineer-Setup-1.0.0.exe` from the Patreon or Ko-fi post.
+1. Download `RaceEngineer-Setup-1.0.0.zip` from the Patreon or Ko-fi post and extract `RaceEngineer-Setup-1.0.0.exe` from it.
 2. Run it. Windows SmartScreen will probably say "Windows protected your PC", because the installer is not code-signed. Click More info, then Run anyway.
 3. Follow the installer. It installs for your Windows user only and can add a desktop icon.
 4. Leave "Launch Gallagheri Race Engineer for F1 26" ticked at the end to start it.
